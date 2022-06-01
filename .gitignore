@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+### Visual Studio Code template
+.vscode/*
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### JetBrains IDEs
+.idea/
+
+# MacOS
+.DS_Store
