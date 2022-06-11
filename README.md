@@ -1,2 +1,2 @@
-# Lord Serpentes Community Discord Heart
-The (future) engine powering Lord Serpentes Community Bot, a moderation bot of the Pygame Community Discord server.
+# Pygame Community Moderation Bot Heart
+The (future) engine powering Pygame Community Moderation Bot (AKA Lord Serpentes), a bot of the Pygame Community Discord server.
